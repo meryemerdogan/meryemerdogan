@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm a freshman at Bilkent University,CS.
+I'm Meryem Erdoğan, a freshman at Bilkent University, CS.
