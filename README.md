@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm Meryem Erdoğan, a CS student at Bilkent University.
+I'm Meryem Erdoğan, a Junior Computer Engineering student at METU (ODTÜ).
